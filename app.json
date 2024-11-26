@@ -9,7 +9,7 @@
     "env": {
       "OWNER_NAME": {
         "description": "Name for Bot Owner",
-        "value": "Queen_Charity",
+        "value": "DON_Te h",
         "required": true
       },
   
@@ -39,8 +39,8 @@
       },
       "BOT_NAME": {
         "description": " NAME FOR BOT",
-        "required": false,
-        "value": "QUEEN_CHARITY"
+        "required": true,
+        "value": "DON_XMD"
       },
       "TZ": {
         "description": "Put TIME_ZONE according to your location",
@@ -103,11 +103,11 @@
       },
       "OWNER_NUMBER": {
         "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-        "value": "254112192119"
+        "value": "263775614627"
       },
       "SESSION_ID": {
         "description": "put your SESSION_ID here.",
-        "value": ""
+        "value": "eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoicUs5QWNoMnBtQldnSXM1d1JGRmpmMVkrR1cvWG1nSGJUMk55bERkRzlrQT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiUThRcXNySHVnUVV6a0o1TVB3QXMrQW5JNnpwTDJWUHZuVXg5TzJObC9WUT0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJlQnZzUldGOVZoY3pzWTgxbTdyY0lMSlgzMUQydHdRd2lRV3ZNMHF6VlVBPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJOaDJjN2MvOHF6N25zVCsvTmtUZ0dxVmRiM3VGYXlTMzI1WnAvMU1NeUE4PSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IldOeHUvSXhnSzV1U0lGQzVHSXVzZ04zNjBCWC9OQi9ud0lNWUJUc3VwVWM9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IlZ2c1d2Yjc3VEJoTHZnVDZrMklJSEh5R0g4S01vb2ZEUWY3Q2M2QWVIM1E9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiaUpNNmg5M29FUk1LRCtnNll4RjYxd1N1Tjk1RFRaYTFPN3B2VkxmTE0yQT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoicWNLUHVwM3I2NjkxSUhubDZ6K2V5QzEyaE9lbVdpcEZjKzVKMkI0WUd6dz0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImtKRjh3WVRwL1VjR25kSDhaaUVKbk9YeTAzRHdWMGlVdFlhQ3RwUFNuNGVNdmxTeS9FUVZIbmF6ZW1oRG5VWDY5ODBBcVRacE9sWW9IdE9XK0c0NEN3PT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MTMwLCJhZHZTZWNyZXRLZXkiOiJkTVpYRmVodUJRZEVTOXNOVzRGelhnU0QvTmZUSHhwUFNFb2lvV3E0aWZvPSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W3sia2V5Ijp7InJlbW90ZUppZCI6IjI2Mzc3NTYxNDYyN0BzLndoYXRzYXBwLm5ldCIsImZyb21NZSI6dHJ1ZSwiaWQiOiJBOUQ5RDkwOUZGM0U0OTI3NUVERjBFNjZGQzJEMDhCOSJ9LCJtZXNzYWdlVGltZXN0YW1wIjoxNzMyNjQ5MzQ3fSx7ImtleSI6eyJyZW1vdGVKaWQiOiIyNjM3NzU2MTQ2MjdAcy53aGF0c2FwcC5uZXQiLCJmcm9tTWUiOnRydWUsImlkIjoiOEJFQkI4MDk1OTBENkI2NjAwNEJDN0E3Njg4ODg5RDMifSwibWVzc2FnZVRpbWVzdGFtcCI6MTczMjY0OTM0OH1dLCJuZXh0UHJlS2V5SWQiOjMxLCJmaXJzdFVudXBsb2FkZWRQcmVLZXlJZCI6MzEsImFjY291bnRTeW5jQ291bnRlciI6MSwiYWNjb3VudFNldHRpbmdzIjp7InVuYXJjaGl2ZUNoYXRzIjpmYWxzZX0sImRldmljZUlkIjoiQi1NbFE1YUNUNnljaWx6YkpNa09TdyIsInBob25lSWQiOiIxZjJlYjMzMC0zMTg5LTRkNTEtYmJiNS1iOWFmMzEyYzRmZDUiLCJpZGVudGl0eUlkIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoicFFxZXUybk5BeWJxMGcyNkRSeUF0R1F1enVvPSJ9LCJyZWdpc3RlcmVkIjp0cnVlLCJiYWNrdXBUb2tlbiI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Ii94OUtlc01uaUpBYXZLTHkyL2lqbUhlVk00cz0ifSwicmVnaXN0cmF0aW9uIjp7fSwicGFpcmluZ0NvZGUiOiJKUDFSM0VYMSIsIm1lIjp7ImlkIjoiMjYzNzc1NjE0NjI3OjU1QHMud2hhdHNhcHAubmV0IiwibmFtZSI6IlQifSwiYWNjb3VudCI6eyJkZXRhaWxzIjoiQ09mQzFPSUdFUExDbUxvR0dBSWdBQ2dBIiwiYWNjb3VudFNpZ25hdHVyZUtleSI6IitVNTF2ZXgyY3cvRWo4d2Y3L3VuNDFqenlHOStEakI5Rjk1cDJNbGhoeGs9IiwiYWNjb3VudFNpZ25hdHVyZSI6IkFWdjU5TDV1KzlmeHVKOVJITzhmc0tObGZVa3k0ejhDSnQrWTJiUTVnc1B4Wm1uMExmVTNnZzczRmNlSWEzdzhrMnZ6MnpyaVgvVXRxcklYblBxVUJnPT0iLCJkZXZpY2VTaWduYXR1cmUiOiJYMHhldHdaWlNISVB1YWdUcXZZdVEvL0xIdGs5b2I1R1lMWk9iNkFHRnI0UmVKRVA1MWNnUjRFSDR1OFVDY2JpaFNhS29XajdtbytDZzNMNCs2amNEdz09In0sInNpZ25hbElkZW50aXRpZXMiOlt7ImlkZW50aWZpZXIiOnsibmFtZSI6IjI2Mzc3NTYxNDYyNzo1NUBzLndoYXRzYXBwLm5ldCIsImRldmljZUlkIjowfSwiaWRlbnRpZmllcktleSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkJmbE9kYjNzZG5NUHhJL01IKy83cCtOWTg4aHZmZzR3ZlJmZWFkakpZWWNaIn19XSwicGxhdGZvcm0iOiJhbmRyb2lkIiwibGFzdEFjY291bnRTeW5jVGltZXN0YW1wIjoxNzMyNjQ5MzQzLCJteUFwcFN0YXRlS2V5SWQiOiJBQUFBQUsvZiJ9"
       },
       "MODE": {
         "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
